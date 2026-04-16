@@ -22,9 +22,9 @@ export default async function RootLayout({
   params,
 }: Readonly<{
   children: React.ReactNode;
-  params: Promise<{lng: string}>;
+  params: {lng: string};
 }>) {
-  const {lng} = await params;
+  const {lng} = params;
   return (
     <html
       lang={lng}
