@@ -1,0 +1,328 @@
+{
+  "date": "Fecha de entrada en vigor:",
+  "name_app": "Nombre de la aplicación:",
+  "contact": "Contacto:",
+  "regulations": "Términos de uso",
+  "navigation": {
+    "home": "Inicio",
+    "privacy_policy": "Política de privacidad",
+    "terms_of_use": "Términos de uso",
+    "contacts": "Contáctanos"
+  },
+  "home": {
+    "hero": "Una app para capturar, organizar y volver a ver publicaciones de redes sociales — con vistas previas impulsadas por IA y categorías inteligentes.",
+    "try_now": "Pruébalo Ahora",
+    "about": [
+      "<logo> SavemeUP </logo> es una herramienta inteligente impulsada por IA diseñada para ayudarte a guardar tu contenido favorito de redes sociales sin esfuerzo. No más copiar enlaces ni añadir títulos manualmente — simplemente guarda y sigue navegando.",
+      "Con la ayuda de la inteligencia artificial, la aplicación detecta automáticamente la categoría del contenido, genera una vista previa detallada y almacena toda la información relevante del post en un solo lugar."
+    ],
+    "tagline": "Todo lo que amas en un solo lugar",
+    "quickAccess": "Acceso rápido a tu contenido favorito en cualquier momento",
+    "download_start": "Descargar y empezar",
+    "save_you_like": "Guarda lo que te gusta",
+    "ai_sort": "La IA lo organiza por ti",
+    "enjoy_space": "Disfruta tu espacio",
+    "download": "Descargar la app",
+    "main_features": "Funciones principales:",
+    "clean_interface": "Interfaz limpia y fácil de usar",
+    "ai_categorization": "Categorización inteligente basada en IA de publicaciones guardadas",
+    "auto_preview": "Vista previa automática del post con toda la información copiable",
+    "two_taps": "Guarda en solo dos toques — sin interrumpir la navegación",
+    "cloud_sync": "Sincronización en la nube con tu cuenta — tus datos permanecen contigo al cambiar de dispositivo",
+    "privacy_focus": "Fuerte enfoque en la privacidad y la protección de datos",
+    "closing_line": "Concéntrate en el contenido que amas — <logo> SavemeUP </logo> se encarga del resto"
+  },
+  "contacts": {
+    "title": "Contacta con el equipo de soporte de <logo> SavemeUP </logo>",
+    "mailDescription": "¿Necesitas ayuda o tienes alguna pregunta? No dudes en contactar con nuestro equipo de soporte en",
+    "happy_to_help": "Siempre estamos encantados de ayudarte.",
+    "enter_email": "Introduce tu correo electrónico",
+    "enter_message": "Introduce tu mensaje",
+    "submit": "enviar"
+  },
+  "terms_of_use": {
+    "regulations": "Términos de uso",
+    "acceptance_of_terms": {
+      "title": "Aceptación de los Términos",
+      "paragraph": "Estos Términos de Uso regulan tu uso de la aplicación móvil <logo> SavemeUP </logo> (la «Aplicación»), proporcionada por el equipo de <logo> SavemeUP </logo> (el «Proveedor del Servicio»). La Aplicación se puede descargar de forma gratuita, pero algunas funciones pueden requerir una suscripción de pago o compras dentro de la aplicación. Al descargar o utilizar la Aplicación, aceptas quedar vinculado por estos Términos. Si no estás de acuerdo, no debes utilizar la Aplicación."
+    },
+    "intellectual_property": {
+      "title": "Propiedad intelectual",
+      "paragraph": "La Aplicación, incluido todo el código, elementos de diseño, marcas registradas, logotipos, bases de datos y contenido, es propiedad exclusiva del Proveedor del Servicio. No puedes copiar, modificar, realizar ingeniería inversa, traducir, extraer el código fuente ni crear obras derivadas basadas en ninguna parte de la Aplicación. Todos los derechos de propiedad intelectual están reservados."
+    },
+    "app_usage_and_restrictions": {
+      "title": "Uso de la Aplicación y restricciones",
+      "paragraph": [
+        "Te comprometes a utilizar la Aplicación de forma lícita y responsable. No debes utilizar la Aplicación de ninguna manera que pueda dañarla, deshabilitarla o perjudicar su funcionamiento ni interferir con la experiencia de otros usuarios.",
+        "Los usuarios no deben intentar eludir las restricciones de edad ni acceder a contenido 18+ sin cumplir los requisitos de edad y suscripción.",
+        "Realizar jailbreak o root a tu dispositivo puede comprometer la seguridad y provocar un funcionamiento incorrecto de la Aplicación. Desaconsejamos firmemente estas acciones."
+      ]
+    },
+    "children_use": {
+      "title": "Uso por parte de menores",
+      "paragraph": "La Aplicación está destinada a usuarios de 16 años o más. No obstante, determinadas funciones que pueden incluir acceso a contenido para adultos o contenido con restricciones de edad (18+) están estrictamente limitadas a los usuarios que:",
+      "conditions": [
+        "confirman que tienen 18 años o más",
+        "disponen de una suscripción de pago activa."
+      ],
+      "paragraph2": [
+        "Si eres menor de 18 años, no debes intentar habilitar ni acceder a ningún contenido para adultos dentro de la Aplicación.",
+        "Nos reservamos el derecho de suspender o cancelar cuentas si la información de edad parece inexacta, falsa o engañosa.",
+        "El Proveedor del Servicio no es responsable si un usuario falsea su edad o proporciona información incorrecta durante el registro."
+      ]
+    },
+    "personal_data": {
+      "title": "Datos personales",
+      "paragraph": [
+        "La Aplicación almacena y procesa los datos personales que proporcionas para prestar el servicio. Para obtener más detalles sobre cómo se trata tu información personal, consulta nuestra <nav>Política de Privacidad</nav>.",
+        "Algunas funciones de la Aplicación dependen del análisis automatizado de contenido mediante inteligencia artificial. Este proceso está diseñado para mejorar la precisión de la categorización y la experiencia de usuario y no implica el tratamiento de datos personales.",
+        "Eres responsable de mantener la seguridad de tu dispositivo y del acceso a la Aplicación."
+      ]
+    },
+    "account_deletion_and_restoration": {
+      "title": "Eliminación y restauración de la cuenta",
+      "paragraph": [
+        "Puedes eliminar tu cuenta en cualquier momento directamente desde la Aplicación.",
+        "Cuando se elimina una cuenta a través de la Aplicación:"
+      ],
+      "conditions": [
+        "la cuenta se desactiva y se programa para su eliminación;",
+        "tus datos se conservan durante un período de recuperación de 45 días."
+      ],
+      "paragraph2": [
+        "Durante este período de recuperación de 45 días, puedes restaurar tu cuenta sin contactar con el soporte volviendo a registrarte con las mismas credenciales de acceso (por ejemplo, la dirección de correo electrónico o el inicio de sesión social originalmente asociado a la cuenta).",
+        "Tras un nuevo registro satisfactorio, tu cuenta y los datos asociados se restaurarán, cuando sea técnicamente posible.",
+        "Una vez transcurrido el período de recuperación de 45 días, la cuenta y los datos asociados se eliminan de forma permanente y no pueden restaurarse.",
+        "Tras la eliminación permanente, la cuenta y todos los datos asociados no podrán recuperarse bajo ninguna circunstancia.",
+        "Si deseas eliminar tu cuenta de forma permanente e inmediata, sin período de recuperación, puedes solicitar una eliminación irreversible contactando con nuestro equipo de soporte en"
+      ]
+    },
+    "third_party_services": {
+      "title": "Servicios de terceros",
+      "paragraph": "La Aplicación depende de proveedores de servicios externos de confianza para ofrecer funcionalidades principales. Estos servicios pueden tratar una cantidad limitada de datos técnicos o relacionados con la cuenta únicamente en la medida en que sea necesario para admitir las funciones de la Aplicación:",
+      "services": [
+        "Google Play Services – servicios del sistema esenciales necesarios para un funcionamiento seguro y estable de la aplicación.",
+        "Google Sign-In y Facebook Login – para la autenticación segura y el registro simplificado de usuarios.",
+        "Firebase (Crashlytics) – para la generación de informes de fallos y la mejora del rendimiento de la aplicación. No se recopilan datos de analítica ni de marketing.",
+        "RevenueCat – para gestionar suscripciones, renovaciones y acceso a derechos o niveles de servicio.",
+        "Stripe – para el procesamiento seguro de pagos de suscripciones.",
+        "DigitalOcean – proveedor de infraestructura en la nube que aloja los sistemas backend y las bases de datos dentro de la Unión Europea (UE).",
+        "PostgreSQL y Redis – para operaciones seguras de base de datos y almacenamiento de contenido.",
+        "OneSignal – para el envío de notificaciones push a usuarios que han otorgado su permiso.",
+        "Mailgun – para correos electrónicos transaccionales, incluidos códigos de verificación y mensajes de recuperación de contraseña.",
+        "Cloudflare – para la protección de seguridad (incluida la mitigación de ataques DDoS), el cifrado SSL/TLS y la optimización del rendimiento.",
+        "Meilisearch – para la funcionalidad de búsqueda dentro de la Aplicación. No se almacenan datos personales en el índice de búsqueda.",
+        "LinkPreview – para generar metadatos de enlaces (como título, descripción e imagen de vista previa) cuando los usuarios guardan URLs.",
+        "OpenAI API – para el análisis de contenido impulsado por IA, la categorización y la generación de vistas previas. Solo se procesan datos relacionados con el contenido; no se comparten datos personales.",
+        "Zyte – para la extracción automática de metadatos y el procesamiento de enlaces, con el fin de mejorar la precisión y la integridad del contenido guardado. No se transmite información personal.",
+        "Te recomendamos revisar los términos y las prácticas de privacidad de estos proveedores para comprender cómo gestionan los datos."
+      ],
+      "paragraph2": "Se le recomienda revisar los términos y las prácticas de privacidad de estos proveedores para comprender cómo manejan los datos."
+    },
+    "ai_features_disclaimer": {
+      "title": "Aviso sobre funciones de IA",
+      "paragraph": [
+        "Algunas funciones de <logo> SavemeUP </logo> utilizan tecnologías de inteligencia artificial para analizar o categorizar enlaces y generar vistas previas.",
+        "Estas funciones basadas en IA están diseñadas para mejorar la usabilidad y no están pensadas para tomar decisiones autónomas sobre los usuarios o su comportamiento.",
+        "El Proveedor del Servicio no garantiza la exactitud ni la integridad del contenido generado por la IA."
+      ]
+    },
+    "connectivity_and_data": {
+      "title": "Conectividad a Internet y datos móviles",
+      "paragraph": [
+        "Algunas funciones requieren una conexión activa a Internet. El Proveedor del Servicio no es responsable de los problemas causados por la falta de conectividad o por sobrepasar los límites de datos móviles.",
+        "Si utilizas la Aplicación fuera de una red Wi-Fi, eres responsable de los cargos por datos móviles. Asegúrate de tener permiso si no eres el propietario del dispositivo o el titular de la línea."
+      ]
+    },
+    "limitation_of_liability": {
+      "title": "Limitación de responsabilidad",
+      "paragraph": [
+        "La Aplicación depende de datos y sistemas de terceros. En la máxima medida permitida por la ley, el Proveedor del Servicio no será responsable de daños indirectos, incidentales o consecuentes, incluidos la pérdida de datos, ingresos u oportunidades de negocio.",
+        "Eres responsable de mantener tu dispositivo, la conexión a Internet y la seguridad. El Proveedor del Servicio no será responsable si la Aplicación deja de estar accesible debido a fallos del dispositivo, problemas de conectividad o modificaciones realizadas por el usuario (como jailbreak o root)."
+      ]
+    },
+    "social_sources": {
+      "title": "Redes sociales y fuentes de contenido",
+      "paragraph": [
+        "La Aplicación te permite guardar contenido de Facebook, Instagram, TikTok, YouTube, Telegram, Twitter, Netflix, Spotify, Deezer y Pinterest. Los iconos de redes sociales indican la fuente del contenido y no implican respaldo, patrocinio ni afiliación con la Aplicación.",
+        "La Aplicación no aloja ni reproduce contenido de terceros. Los enlaces guardados se limitan a metadatos de acceso público (título, descripción, imagen de vista previa) y se procesan exclusivamente para fines de organización y categorización personal.",
+        "La Aplicación puede procesar enlaces que contengan contenido para adultos u otro contenido sensible únicamente cuando son guardados explícitamente por usuarios que cumplen los requisitos de edad (18+) y disponen de una suscripción activa.",
+        "La Aplicación no aloja contenido para adultos."
+      ]
+    },
+    "adult_content": {
+      "title": "Contenido para adultos (18+)",
+      "paragraph": "Algunas funciones de la Aplicación pueden incluir o permitir guardar y ver contenido destinado a adultos (18+). El contenido para adultos está disponible solo para los usuarios que:",
+      "requirements": [
+        "confirman durante el registro que tienen 18 años o más",
+        "tienen una suscripción de pago activa."
+      ],
+      "confirmationIntro": "Al acceder a dicho contenido, declaras que:",
+      "confirmation": [
+        "tienes al menos 18 años;",
+        "el dispositivo que utilizas no es accesible para menores;",
+        "no estás infringiendo las leyes aplicables en tu país en materia de contenido para adultos.",
+        "Si eres menor de 18 años, no debes habilitar ni acceder a contenido para adultos dentro de la Aplicación."
+      ],
+      "paragraph2": "El Proveedor del Servicio no es responsable si un usuario facilita información falsa sobre su edad. Nos reservamos el derecho de restringir o suspender el acceso al contenido para adultos o a toda la cuenta si la información de edad parece inexacta o engañosa."
+    },
+    "app_updates_and_termination": {
+      "title": "Actualizaciones de la Aplicación y finalización",
+      "paragraph": [
+        "El Proveedor del Servicio puede actualizar la Aplicación para mejorar el rendimiento, corregir errores o dar soporte a nuevas versiones del sistema. Aceptas instalar las actualizaciones para poder seguir usando la Aplicación.",
+        "Podemos interrumpir o suspender la Aplicación en cualquier momento. Cuando sea posible, intentaremos notificar a los usuarios con antelación. Al finalizar el servicio, todos los derechos que se te hayan otorgado en virtud de estos Términos cesarán, y deberás dejar de usar la Aplicación y eliminarla de tu dispositivo."
+      ]
+    },
+    "changes_to_these_terms": {
+      "title": "Cambios en estos Términos",
+      "paragraph": "El Proveedor del Servicio puede revisar estos Términos en cualquier momento. Los Términos actualizados se publicarán en la Aplicación y entrarán en vigor inmediatamente tras su publicación. Te recomendamos revisar periódicamente estos Términos."
+    },
+    "contact_information": {
+      "title": "Información de contacto",
+      "paragraph": "Si tienes preguntas o dudas sobre estos Términos, ponte en contacto con nosotros:"
+    }
+  },
+  "privacy_policy": {
+    "regulations": "Política de Privacidad",
+    "welcome": [
+      "Bienvenido a <logo> SavemeUP </logo>, tu asistente inteligente para guardar, organizar y dar sentido al contenido de las redes sociales. En <logo> SavemeUP </logo> entendemos lo importantes que son tus datos personales y nos comprometemos a proteger tu privacidad en cada momento.",
+      "Esta Política de Privacidad explica cómo la aplicación móvil <logo> SavemeUP </logo> (en adelante, la «Aplicación») recopila, utiliza y protege la información que proporcionas al utilizarla.",
+      "Te pedimos que leas atentamente esta Política de Privacidad. Al usar la Aplicación, aceptas las prácticas descritas a continuación. Si tienes alguna pregunta o duda, puedes ponerte en contacto con nosotros en cualquier momento."
+    ],
+    "what_data_we_collect": {
+      "title": "Qué datos recopilamos",
+      "paragraph": "La Aplicación recopila los siguientes datos personales cuando te registras y la utilizas:",
+      "conditions": [
+        "Información de la cuenta: dirección de correo electrónico, ID del dispositivo y edad del usuario con fines de verificación de edad. La Aplicación verifica la edad únicamente sobre la base de la información proporcionada por el usuario durante el registro. No solicitamos documentos de identidad.",
+        "Contenido guardado: enlaces que guardas, así como metadatos extraídos (títulos, descripciones e imágenes de vista previa) y etiquetas o categorías generadas por IA.",
+        "Datos de uso: información sobre tu actividad dentro de la Aplicación (por ejemplo, elementos guardados, categorías), tipo de dispositivo, sistema operativo, versión de la aplicación, zona horaria e idioma.",
+        "Datos de suscripción y pago: estado de la suscripción y detalles de las transacciones. La información de pago se procesa de forma segura a través de proveedores externos; no almacenamos los datos de pago completos.",
+        "Datos de inicio de sesión social: información básica (por ejemplo, correo electrónico, nombre, ID de usuario) de Google si decides iniciar sesión a través de este servicio.",
+        "Datos de entrada de voz: datos de voz temporales utilizados exclusivamente para la función de búsqueda por voz. Los datos de audio no se almacenan ni se conservan.",
+        "No recopilamos datos de menores ni utilizamos cookies."
+      ]
+    },
+    "use_social_content_sources": {
+      "title": "Uso de iconos de redes sociales y fuentes de contenido",
+      "paragraph": "Nuestra Aplicación permite a los usuarios guardar y clasificar contenido de redes sociales compatibles, incluyendo Facebook, Instagram, TikTok, YouTube, Telegram, Pinterest, Twitter, Netflix, Spotify y Deezer. Los iconos de redes sociales mostrados en la Aplicación son propiedad de sus respectivas plataformas y se utilizan únicamente para indicar la fuente del contenido o proporcionar un enlace directo a la fuente original. Estos iconos se utilizan de acuerdo con las directrices de marca de cada plataforma y no implican patrocinio, respaldo ni afiliación con nuestra Aplicación. No recopilamos datos personales directamente de estas redes sociales; solo se procesa y almacena el contenido que los usuarios guardan explícitamente en la Aplicación."
+    },
+    "use_your_data": {
+      "title": "Cómo utilizamos tus datos",
+      "paragraph": "Utilizamos tus datos para:",
+      "conditions": [
+        "Proporcionar y operar la Aplicación, incluyendo guardar, organizar y analizar tus enlaces mediante IA.",
+        "Crear y gestionar tu cuenta, incluyendo registro, inicio de sesión y verificación de edad.",
+        "Procesar suscripciones y pagos a través de proveedores externos seguros.",
+        "Garantizar la seguridad y el correcto funcionamiento de la Aplicación, incluyendo la prevención de abusos y la resolución de problemas técnicos.",
+        "Proporcionar atención al cliente y enviar actualizaciones importantes o mensajes relacionados con el soporte.",
+        "Mantener la seguridad y la funcionalidad de la plataforma.",
+        "No utilizamos tus datos con fines publicitarios ni los compartimos con terceros para marketing."
+      ]
+    },
+    "third_party_integrations": {
+      "title": "Integraciones de terceros",
+      "paragraph": "Para proporcionar la funcionalidad principal de la Aplicación, confiamos en servicios de terceros de confianza. Estos proveedores pueden procesar una cantidad limitada de datos personales exclusivamente con fines operativos y siempre bajo medidas adecuadas de protección de datos:",
+      "conditions": [
+        "Google Sign-In y Facebook Login – para autenticación segura y registro simplificado de usuarios.",
+        "Stripe – para el procesamiento seguro de pagos y la gestión de suscripciones.",
+        "Firebase (solo Crashlytics) – para el seguimiento de errores y la mejora de la estabilidad de la aplicación. No se recopilan datos de analítica ni de marketing.",
+        "RevenueCat – para la gestión del ciclo de vida de las suscripciones en diferentes plataformas (activación, renovación, cancelación).",
+        "PostgreSQL y Redis – para el almacenamiento seguro y eficiente de los datos de usuario y los metadatos de contenido.",
+        "DigitalOcean – nuestro proveedor de infraestructura en la nube, que aloja los sistemas de backend y las bases de datos dentro de la Unión Europea (UE).",
+        "OneSignal – para el envío de notificaciones push a los usuarios que han otorgado su permiso. OneSignal puede recopilar identificadores de dispositivos necesarios para la entrega de notificaciones (por ejemplo, tokens push).",
+        "Cloudflare – para el cifrado SSL/TLS, la optimización del rendimiento y la protección frente a amenazas de seguridad (por ejemplo, ataques DDoS).",
+        "Mailgun – para el envío de correos electrónicos transaccionales, como verificación de cuenta, recuperación de contraseña y notificaciones importantes del servicio.",
+        "Meilisearch – para una búsqueda rápida y precisa dentro de la Aplicación (no se almacenan datos personales en el índice de búsqueda).",
+        "LinkPreview – para generar metadatos como títulos de enlaces, descripciones y miniaturas al guardar URLs.",
+        "OpenAI API – para el análisis y la categorización de contenido basados en IA. Solo se procesan datos de contenido (por ejemplo, texto o vista previa del enlace); no se comparte información personal del usuario.",
+        "Zyte – para la extracción automática de metadatos y el procesamiento de enlaces, con el fin de mejorar la exactitud y la integridad de los detalles del contenido guardado. No se transmiten datos personales de los usuarios.",
+        "APIs del sistema de reconocimiento de voz – utilizadas únicamente para habilitar la función de búsqueda por voz. La Aplicación no almacena datos de audio.",
+        "Todos los proveedores externos están contractualmente obligados a proteger tu información y solo pueden procesar datos en la medida necesaria para respaldar la funcionalidad de la Aplicación. No permitimos que estos servicios accedan, utilicen o compartan tu información personal con fines de marketing ni para otros fines no relacionados."
+      ]
+    },
+    "ai_processing": {
+      "title": "Tratamiento mediante IA",
+      "paragraph": "Determinadas funciones de la Aplicación utilizan inteligencia artificial (IA) para analizar o clasificar el contenido que guardas. Estos procesos se llevan a cabo a través de la API de OpenAI. Solo se procesan los datos de contenido necesarios (como texto o enlaces); no se comparte con OpenAI información personal (como nombre, correo electrónico o datos de pago)."
+    },
+    "password_protection": {
+      "title": "Protección de contraseñas",
+      "paragraph": "Las contraseñas de los usuarios se almacenan cifradas y con hash utilizando prácticas de seguridad estándar del sector. No almacenamos las contraseñas en texto plano y aplicamos medidas técnicas adecuadas para proteger los datos de autenticación."
+    },
+    "input_recognition": {
+      "title": "Entrada de voz y reconocimiento de voz",
+      "paragraph": [
+        "La Aplicación puede ofrecer una función de búsqueda por voz que permite a los usuarios introducir consultas utilizando la voz.",
+        "Cuando utilizas la entrada de voz:"
+      ],
+      "conditions": [
+        "Tu voz se procesa únicamente para convertir el habla en texto.",
+        "No almacenamos ni conservamos ni grabamos los datos de audio.",
+        "Los datos de voz se usan únicamente para ejecutar la acción solicitada (por ejemplo, búsqueda).",
+        "Los datos de audio se procesan en tiempo real y se descartan inmediatamente después de la transcripción.",
+        "El reconocimiento de voz puede ser proporcionado por servicios de sistema de terceros (como los frameworks de reconocimiento de voz de Apple o Google). No recibimos, almacenamos ni controlamos los datos de audio en bruto procesados por estos servicios."
+      ],
+      "paragraph2": "Al utilizar la función de entrada de voz, das tu consentimiento para el tratamiento de tu voz tal y como se describe arriba."
+    },
+    "user_rights": {
+      "title": "Derechos del usuario",
+      "paragraph": "Como usuario de la Aplicación, tienes los siguientes derechos en relación con tus datos personales:",
+      "conditions": [
+        "Derecho de acceso: puedes solicitar información sobre qué datos personales tenemos sobre ti y cómo los utilizamos.",
+        "Derecho de rectificación: puedes solicitar la corrección de datos personales inexactos o incompletos.",
+        "Derecho de supresión: puedes eliminar tu cuenta directamente desde la Aplicación. Las cuentas eliminadas pueden restaurarse durante un periodo limitado. Si deseas eliminar todos los datos de forma permanente, contacta con nuestro equipo de soporte.",
+        "Derecho a retirar el consentimiento: puedes retirar tu consentimiento en cualquier momento para cualquier tratamiento basado en el consentimiento.",
+        "Derecho a la limitación del tratamiento: puedes solicitar que suspendamos temporalmente el tratamiento de tus datos en determinados casos.",
+        "Derecho a la portabilidad de los datos: a petición, podemos proporcionarte una copia de tus datos en un formato estructurado, de uso común y lectura mecánica.",
+        "Derecho de oposición: tienes derecho a oponerte a determinados usos de tus datos.",
+        "Ten en cuenta que no recopilamos ni tratamos de forma consciente datos personales de menores de 16 años. Si crees que un menor nos ha facilitado información personal, contacta con nosotros inmediatamente.",
+        "Si deseas ejercer cualquiera de estos derechos, ponte en contacto con nosotros en:"
+      ],
+      "paragraph2": "Responderemos a todas las solicitudes en un plazo de 30 días o en el plazo exigido por la legislación aplicable."
+    },
+    "children_privacy": {
+      "title": "Privacidad de los menores",
+      "paragraph": [
+        "Nuestra Aplicación está destinada a usuarios de 16 años o más, pero el contenido para adultos (18+) solo está disponible para usuarios de 18 años o más y únicamente con una suscripción activa. No recopilamos conscientemente datos de menores por debajo de la edad de consentimiento digital aplicable (generalmente entre 13 y 16 años, según las leyes). Si descubrimos que hemos recopilado datos personales de un menor por debajo de la edad aplicable sin verificación del consentimiento de los padres, eliminaremos dichos datos sin demora.",
+        "Si crees que un menor ha proporcionado datos personales, contacta con nosotros inmediatamente."
+      ]
+    },
+    "age_restricted_content": {
+      "title": "Contenido restringido por edad (18+)",
+      "paragraph": "Algunas funciones de la Aplicación pueden incluir o permitir guardar o visualizar contenido destinado a adultos (18+). El acceso a dicho contenido se limita estrictamente a los usuarios que: confirman que tienen 18 años o más, y disponen de una suscripción de pago activa. No tratamos conscientemente datos de contenido para adultos de usuarios menores de 18 años. Si llegamos a saber que un usuario menor de 18 años ha intentado acceder a dicho contenido o ha proporcionado información falsa sobre su edad, podremos restringir o cancelar su acceso. La Aplicación no crea contenido 18+; solo procesa enlaces guardados explícitamente por el usuario."
+    },
+    "data_security": {
+      "title": "Seguridad de los datos",
+      "paragraph": "Adoptamos medidas técnicas y organizativas adecuadas para proteger tus datos personales contra el acceso no autorizado, la pérdida o el uso indebido. Todos los datos transmitidos entre tu dispositivo y nuestros servidores están protegidos mediante cifrado SSL. Tu información se almacena de forma segura en bases de datos PostgreSQL y Redis alojadas en servidores de DigitalOcean en Alemania, con copias de seguridad automáticas periódicas. El acceso a los datos está limitado únicamente al personal autorizado. Aunque nos esforzamos por garantizar el máximo nivel de seguridad, ningún sistema es completamente inmune a los riesgos. Si detectas alguna actividad sospechosa, ponte en contacto con nosotros en:"
+    },
+    "legal_bases": {
+      "title": "Bases legales",
+      "paragraph": "Tratamos tus datos de acuerdo con los siguientes marcos legales:",
+      "conditions": [
+        "RGPD (Reglamento General de Protección de Datos) – para usuarios de la Unión Europea y países del EEE.",
+        "Otras leyes de protección de datos y privacidad aplicables – dependiendo de tu ubicación.",
+        "Al tratar datos de edad y acceso a contenido para adultos, nuestras bases legales pueden incluir: Cumplimiento de obligaciones legales relacionadas con restricciones de edad;"
+      ],
+      "paragraph2": "Interés legítimo en garantizar que la Aplicación no sea utilizada por menores para acceder a contenido para adultos; Consentimiento del usuario al habilitar el acceso a categorías para adultos."
+    },
+    "data_storage_and_transfer": {
+      "title": "Almacenamiento y transferencia de datos",
+      "paragraph": "Todos los datos personales recopilados a través de la Aplicación se almacenan de forma segura en servidores alojados por DigitalOcean en Alemania (Unión Europea). No transferimos tus datos personales fuera del Espacio Económico Europeo (EEE). Todo el tratamiento y almacenamiento se llevan a cabo de conformidad con el Reglamento General de Protección de Datos (RGPD). Si en el futuro fuese necesario transferir datos fuera del EEE, garantizaremos la aplicación de salvaguardias adecuadas, como las Cláusulas Contractuales Tipo (SCC) aprobadas por la Comisión Europea."
+    },
+    "cookies_and_analytics": {
+      "title": "Cookies y analítica",
+      "paragraph": "No utilizamos cookies ni herramientas de analítica para rastrear el comportamiento de los usuarios."
+    },
+    "changes_to_this_policy": {
+      "title": "Cambios en esta Política",
+      "paragraph": "Podemos actualizar esta Política de Privacidad periódicamente. Cualquier cambio se publicará en la Aplicación o en nuestro sitio web. El uso continuado de la Aplicación tras dichos cambios implica la aceptación de la Política actualizada."
+    },
+    "contacts": {
+      "title": "Contacto",
+      "paragraph": "Si tienes preguntas o dudas sobre esta Política de Privacidad, ponte en contacto con nosotros en:"
+    },
+    "third_party_licenses": {
+      "title": "Licencias de terceros",
+      "paragraph": "Esta aplicación utiliza iconos del conjunto Material Symbols proporcionado por Google LLC. Estos iconos están licenciados bajo la Apache License, Version 2.0. © Google LLC. Todos los derechos reservados. El código fuente y la licencia están disponibles públicamente en los repositorios oficiales de Google."
+    }
+  }
+}

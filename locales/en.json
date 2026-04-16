@@ -1,0 +1,328 @@
+{
+  "date": "Effective Date:",
+  "name_app": "App Name: ",
+  "contact": "Contact:",
+  "navigation": {
+    "home": "Home",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_use": "Terms of Use",
+    "contacts": "Contact Us"
+  },
+  "home": {
+    "hero": "One app to capture, sort, and revisit social media posts — with AI-powered previews and smart categories.",
+    "try_now": "Try It Now",
+    "about": [
+      "<logo> SavemeUP </logo> is a smart, AI-powered tool designed to help you save your favorite social media content effortlessly. No more copying links or manually adding titles — just save and keep browsing.",
+      "With the help of artificial intelligence, the app automatically detects the content category, generates a detailed preview, and stores all relevant post info in one place."
+    ],
+    "tagline": "All you love in one place",
+    "quickAccess": "Quick access to your favorite content anytime",
+    "download_start": "Download & start",
+    "save_you_like": "Save what you like",
+    "ai_sort": "AI sorts it for you",
+    "enjoy_space": "Enjoy your space",
+    "download": "Download the App",
+    "main_features": "Main features:",
+    "clean_interface": "Clean, user-friendly interface",
+    "ai_categorization": "Smart AI-based categorization of saved posts",
+    "auto_preview": "Automatic post preview with full copyable info",
+    "two_taps": "Save in just two taps — no need to interrupt browsing",
+    "cloud_sync": "Cloud sync with your account — data stays with you when changing devices",
+    "privacy_focus": "Strong focus on privacy and data protection",
+    "closing_line": "Stay focused on the content you love — <logo> SavemeUP </logo> handles the rest"
+  },
+  "contacts": {
+    "title": "Contact the <logo> SavemeUP </logo> support team",
+    "mailDescription": "Need assistance or have a question? Feel free to contact our support team at",
+    "happy_to_help": "We're always happy to help.",
+    "enter_email": "Enter your email",
+    "enter_message": "Enter your message",
+    "submit": "submit"
+  },
+  "terms_of_use": {
+    "regulations": "Terms of Use",
+    "acceptance_of_terms": {
+      "title": "Acceptance of Terms",
+      "paragraph": "These Terms of Use govern your use of the <logo> SavemeUP </logo> mobile application (the “App”), provided by the SaveMeUP team (the “Service Provider”). The App is free to download, but some features may require a paid subscription or in-app purchases. By downloading or using the App, you agree to be bound by these Terms. If you do not agree, you must not use the App."
+    },
+    "intellectual_property": {
+      "title": "Intellectual Property",
+      "paragraph": "The App, including all code, design elements, trademarks, logos, databases, and content, is the exclusive property of the Service Provider. You may not copy, modify, reverse engineer, translate, extract the source code, or create derivative works based on any part of the App. All intellectual property rights are reserved."
+    },
+    "app_usage_and_restrictions": {
+      "title": "App Usage and Restrictions",
+      "paragraph": [
+        "You agree to use the App lawfully and responsibly. You must not use the App in any way that could damage, disable, or impair the App or interfere with other users’ experience.",
+        "Users must not attempt to bypass age restrictions or access 18+ content without meeting the required age and subscription conditions.",
+        "Jailbreaking or rooting your device may compromise security and cause the App to malfunction. We strongly discourage such actions."
+      ]
+    },
+    "children_use": {
+      "title": "Children’s Use",
+      "paragraph": "The App is intended for users aged 16 and older. However, certain features that may include access to adult or age-restricted (18+) content are strictly limited to users who:",
+      "conditions": [
+        "do not confirm that they are 18 years of age or older",
+        "do not have an active paid subscription"
+      ],
+      "paragraph2": [
+        "If you are under 18, you must not attempt to enable or access any adult content within the App.",
+        "We reserve the right to suspend or terminate accounts if age information appears inaccurate, false, or misleading.",
+        "The Service Provider is not responsible if a user misrepresents their age or provides incorrect information during registration."
+      ]
+    },
+    "personal_data": {
+      "title": "Personal Data",
+      "paragraph": [
+        "The App stores and processes personal data you provide to deliver the service. For details about how your personal information is handled, please refer to our <nav>Privacy Policy</nav>.",
+        "Some features of the App rely on automated content analysis powered by artificial intelligence. This process is designed to improve categorization accuracy and user experience and does not involve the processing of personal data.",
+        "You are responsible for keeping your device and App access secure."
+      ]
+    },
+    "account_deletion_and_restoration": {
+      "title": "Account Deletion and Restoration",
+      "paragraph": [
+        "You may delete your account at any time directly within the App.",
+        "When an account is deleted through the App:"
+      ],
+      "conditions": [
+        "the account is deactivated and scheduled for deletion;",
+        "your data is retained for a recovery period of 45 days."
+      ],
+      "paragraph2": [
+        "During this 45-day recovery period, you may restore your account without contacting support by registering again using the same login credentials (e.g., email address or social login originally associated with the account).",
+        "Upon successful re-registration, your account and associated data will be reinstated, where technically possible.",
+        "After the 45-day recovery period expires, the account and associated data are permanently deleted and cannot be restored.",
+        "Once permanently deleted, the account and all associated data cannot be recovered under any circumstances.",
+        "If you wish to permanently delete your account immediately, without any recovery period, you may request irreversible deletion by contacting our support team at:"
+      ]
+    },
+    "third_party_services": {
+      "title": "Third-Party Services",
+      "paragraph": "The App relies on trusted third-party service providers to deliver core functionality. These services may process limited technical or account-related data only as necessary to support App features:",
+      "services": [
+        "Google Play Services – essential system services required for secure and stable app functionality.",
+        "Google Sign-In and Facebook Login – for secure authentication and simplified registration.",
+        "Firebase (Crashlytics) – for crash reporting and improving app performance. No analytics or marketing data is collected.",
+        "RevenueCat – for managing subscriptions, renewals, and entitlement access.",
+        "Stripe – for secure payment processing of subscription purchases.",
+        "DigitalOcean – cloud infrastructure, servers hosted within the European Union.",
+        "PostgreSQL and Redis – secure databases for storing user data and content.",
+        "OneSignal – for sending push notifications (non-personal identifiers only).",
+        "Mailgun – for transactional emails such as account verification and password recovery.",
+        "Cloudflare – for network security, DDoS protection, and content delivery.",
+        "Meilisearch – for in-app search functionality (no personal data stored).",
+        "LinkPreview – to generate link metadata (title, description, thumbnail) when saving URLs.",
+        "OpenAI API – to analyze and categorize saved content using artificial intelligence. Only content data (e.g., link text or preview) is processed, not personal information.",
+        "Zyte – for automated metadata extraction and link processing to enhance accuracy and completeness of saved content. No personal information is transmitted."
+      ],
+      "paragraph2": "You are encouraged to review the terms and privacy practices of these providers to understand how they handle data."
+    },
+    "ai_features_disclaimer": {
+      "title": "AI Features Disclaimer",
+      "paragraph": [
+        "Certain features of SaveMeUp use artificial intelligence technologies to analyze or categorize links and generate previews.",
+        "These AI-powered functions are designed to enhance usability and are not intended to make autonomous decisions about users or their behavior.",
+        "The Service Provider does not guarantee the accuracy or completeness of AI-generated content."
+      ]
+    },
+    "connectivity_and_data": {
+      "title": "Internet Connectivity and Mobile Data",
+      "paragraph": [
+        "Some features require an active internet connection. The Service Provider is not responsible for issues caused by lack of connectivity or exceeding mobile data limits.",
+        "If using the App outside Wi-Fi, you are responsible for mobile data charges. Ensure you have permission if you are not the device owner or bill payer."
+      ]
+    },
+    "limitation_of_liability": {
+      "title": "Limitation of Liability",
+      "paragraph": [
+        "The App relies on third-party data and systems. To the maximum extent permitted by law, the Service Provider is not liable for indirect, incidental, or consequential damages, including loss of data, revenue, or business opportunities.",
+        "You are responsible for maintaining your device, internet connection, and security. The Service Provider is not liable if the App becomes inaccessible due to device failure, connectivity issues, or user modifications (such as jailbreaking or rooting)."
+      ]
+    },
+    "social_sources": {
+      "title": "Social Media and Content Sources",
+      "paragraph": [
+        "The App allows you to save content from Facebook, Instagram, TikTok, YouTube, Telegram, Twitter, Netflix, Spotify, Deezer, and Pinterest. Social media icons indicate the source of content and do not imply endorsement, sponsorship, or affiliation with the App.",
+        "The App does not host or reproduce any third-party content. Saved links are limited to publicly available metadata (title, description, preview image) and are processed solely for personal organization and categorization purposes.",
+        "The App may process links that contain adult or sensitive content only when explicitly saved by users who meet age requirements (18+) and only for users with an active subscription. The App does not host adult content."
+      ]
+    },
+    "adult_content": {
+      "title": "Adult Content (18+)",
+      "paragraph": "Some features of the App may include or allow saving and viewing content intended for adults (18+). Adult content is available only to users who:",
+      "requirements": [
+        "confirm they are 18 years of age or older during registration",
+        "have an active paid subscription"
+      ],
+      "confirmationIntro": "By accessing such content, you confirm that:",
+      "confirmation": [
+        "you are at least 18 years old",
+        "the device you are using is not accessible to minors",
+        "you are not violating any laws applicable in your country regarding adult content"
+      ],
+      "paragraph2": "If you are under 18, you must not enable or access adult content within the App. The Service Provider is not responsible if a user provides false age information. We reserve the right to restrict or suspend access to adult content or the entire account if age information appears to be inaccurate or misleading."
+    },
+    "app_updates_and_termination": {
+      "title": "App Updates and Termination",
+      "paragraph": [
+        "The Service Provider may update the App to improve performance, fix bugs, or support new system versions. You agree to install updates to continue using the App.",
+        "We may discontinue or suspend the App at any time. Where possible, we will attempt to notify users in advance. Upon termination, all rights granted to you under these Terms cease, and you must stop using the App and delete it from your device."
+      ]
+    },
+    "changes_to_these_terms": {
+      "title": "Changes to These Terms",
+      "paragraph": "The Service Provider may revise these Terms at any time. Updated Terms will be posted in the App and take effect immediately upon posting. You are encouraged to review these Terms periodically."
+    },
+    "contact_information": {
+      "title": "Contact Information",
+      "paragraph": "For questions or concerns about these Terms, contact us at:"
+    }
+  },
+  "privacy_policy": {
+    "regulations": "Privacy Policy",
+    "welcome": [
+      "Welcome to <logo> SavemeUP </logo> – your smart assistant for saving, organizing, and making sense of content from social media. We at <logo> SavemeUP </logo> understand how important your personal data is, and we’re committed to protecting your privacy every step of the way.",
+      "This Privacy Policy explains how the <logo> SavemeUP </logo> mobile application (hereinafter referred to as “the App”) collects, uses, and safeguards the information you provide when using it.",
+      "Please take a moment to read this Privacy Policy carefully. By using the App, you agree to the practices described below. If you have any questions or concerns, feel free to contact us at any time."
+    ],
+    "what_data_we_collect": {
+      "title": "What Data We Collect",
+      "paragraph": "The App collects the following personal data when you register and use it:",
+      "conditions": [
+        "Account Information: Email address, device ID, and user age for age verification purposes. The App verifies age based solely on user-provided information during registration. We do not request identity documents.",
+        "Saved Content: Links you save, along with extracted metadata (titles, descriptions, and preview images), and AI-generated tags or categories.",
+        "To display link previews, the App uses the LinkPreview service, which extracts publicly available metadata (title, description, image) from the URL. No personal data is transmitted to LinkPreview.",
+        "Usage Data: Information about your activity within the App (e.g., saved items, categories), device type, operating system, app version, time zone, and language.",
+        "Subscription & Payment Data: Subscription status and transaction details. Payment information is processed securely via third-party providers; we do not store full payment details.",
+        "Social Login Data: Basic information (e.g., email, name, user ID) from Google if you choose to sign in through them.",
+        "Voice Input Data: Temporary voice input used exclusively for voice search functionality. Audio data is not stored or retained.",
+        "The App may also collect technical identifiers necessary for delivering push notifications (via OneSignal). These identifiers do not contain personal information and can be disabled at any time in your device settings.",
+        "We do not collect data from children and do not use cookies."
+      ]
+    },
+    "use_social_content_sources": {
+      "title": "Use of Social Media Icons and Content Sources",
+      "paragraph": "Our App allows users to save and categorize content from supported social networks, including Facebook, Instagram, TikTok, YouTube, Telegram, and Pinterest, Twitter, Netflix, Spotify, and Deezer. The social media icons displayed in the App are owned by their respective platforms and are used solely to indicate the source of content or provide a direct link to the original source. These icons are used in accordance with each platform’s brand guidelines and do not imply sponsorship, endorsement, or affiliation with our App. We do not collect personal data directly from these social networks; only the content explicitly saved by users is processed and stored in the App."
+    },
+    "use_your_data": {
+      "title": "How We Use Your Data",
+      "paragraph": "We use your data to:",
+      "conditions": [
+        "Provide and operate the App, including saving, organizing, and analyzing your links using AI.",
+        "Create and manage your account, including registration, login and age verification.",
+        "Process subscriptions and payments through secure third-party providers.",
+        "Ensure the security and proper functioning of the App, including preventing abuse and troubleshooting technical issues.",
+        "Provide customer support and send important updates or support-related messages.",
+        "We use your email address only for essential service-related communications, such as account verification, password recovery, or subscription updates. These messages are sent securely through Mailgun.",
+        "Maintain platform security and functionality.",
+        "We do not use your data for advertising purposes or share it with third parties for marketing."
+      ]
+    },
+    "third_party_integrations": {
+      "title": "Third-Party Integrations",
+      "paragraph": "To provide core functionality of the App, we rely on trusted third-party services. These providers may process limited personal data strictly for operational purposes and always under appropriate data protection safeguards:",
+      "conditions": [
+        "Google Sign-In – for secure authentication and simplified registration.",
+        "Stripe – for secure payment processing and subscription billing management.",
+        "Firebase (Crashlytics only) – for error tracking and improving app stability. No analytics or marketing data is collected.",
+        "RevenueCat – for subscription lifecycle management across platforms (activation, renewal, cancellation).",
+        "Zyte – for automated metadata extraction and link processing to enhance the accuracy and completeness of saved content details. No personal user data is transmitted.",
+        "PostgreSQL and Redis – for secure data storage and app functionality.",
+        "DigitalOcean – as our cloud infrastructure provider, hosting backend systems and databases in the European Union (EU).",
+        "OneSignal – for sending push notifications to users who have granted permission.",
+        "Cloudflare – for SSL encryption, performance optimization, and protection against security threats.",
+        "Mailgun – for transactional and service-related email delivery.",
+        "Meilisearch – as a search engine to enable fast and accurate content search within the App.",
+        "LinkPreview – for generating metadata such as link titles, descriptions, and thumbnails when saving URLs.",
+        "OpenAI API – for AI-based content analysis and categorization. Only content data (e.g., link text or preview) is processed; personal user information is not shared.",
+        "System Speech Recognition APIs – used solely to enable voice search functionality. No audio data is stored by the App.",
+        "All third-party providers are contractually obligated to protect your data and may use it only for purposes that support the App’s functionality. We do not allow these services to access or use your personal information for unrelated or marketing purposes."
+      ]
+    },
+    "ai_processing": {
+      "title": "AI Processing",
+      "paragraph": "Certain App features use artificial intelligence (AI) to analyze or categorize the content you save. These processes are powered by the OpenAI API. Only the necessary content data (such as text or links) are processed for this purpose — no personal information (like name, email, or payment data) is shared with OpenAI."
+    },
+    "password_protection": {
+      "title": "Password Protection",
+      "paragraph": "User passwords are stored in encrypted and hashed form using industry-standard security practices. We do not store passwords in plain text and take appropriate technical measures to safeguard authentication data"
+    },
+    "input_recognition": {
+      "title": "Voice Input and Speech Recognition",
+      "paragraph": [
+        "The App may offer a voice search feature that allows users to input queries using their voice.",
+        "When you use voice input:"
+      ],
+      "conditions": [
+        "Your voice is processed only to convert speech into text.",
+        "We do not store, retain, or record audio data.",
+        "Voice data is used solely to perform the requested action (e.g., search).",
+        "Audio data is processed in real time and discarded immediately after transcription.",
+        "Speech recognition may be provided by third-party system services (such as Apple or Google speech recognition frameworks). We do not receive, store, or control raw audio data processed by these services."
+      ],
+      "paragraph2": "By using the voice input feature, you consent to the processing of your voice input as described above."
+    },
+    "user_rights": {
+      "title": "User Rights",
+      "paragraph": "As a user of the App, you have the following rights regarding your personal data:",
+      "conditions": [
+        "Right to access: You may request information about what personal data we hold about you and how we use it.",
+        "Right to correct: You may request correction of inaccurate or incomplete personal data.",
+        "Right to delete: You can delete your account directly within the App. Deleted accounts can be restored for a limited time. If you wish to permanently delete all data, contact our support team.",
+        "Right to withdraw consent: You may withdraw consent at any time for any processing based on consent.",
+        "Right to restrict processing: You may request that we temporarily stop processing your data in certain cases.",
+        "Right to portability: Upon request, we can provide a copy of your data in a structured, commonly used, and machine-readable format.",
+        "Right to object: You have the right to object to certain uses of your data.",
+        "You can opt out of receiving push notifications at any time by adjusting your device settings or notification preferences.",
+        "Please note that we do not knowingly collect or process personal data from children under the age of 16. If you believe that a child has provided us with personal information, please contact us immediately.",
+        "If you would like to exercise any of these rights, please contact us at:"
+      ],
+      "paragraph2": "We will respond to all requests within 30 days, or as required by applicable law."
+    },
+    "children_privacy": {
+      "title": "Children’s Privacy",
+      "paragraph": [
+        "Our App is intended for users aged 16 and older, but 18+ content is available only to users aged 18 and above and only with an active subscription. We do not knowingly collect data from children under the applicable age of digital consent (usually 13–16, depending on laws). If we discover that we have collected personal data from a child under the applicable age without verification of parental consent, we will delete such data promptly.",
+        "If you believe a minor has provided personal data, contact us immediately."
+      ]
+    },
+    "age_restricted_content": {
+      "title": "Age-Restricted Content (18+)",
+      "paragraph": "Some features of the App may include or allow saving or viewing content intended for adults (18+). Access to such content is strictly limited to users who: confirm they are 18 years of age or older, and have an active paid subscription. We do not knowingly process adult content data for any users under the age of 18. If we learn that a user under 18 has attempted to access such content or provided false age information, we may restrict or terminate their access. The App does not create 18+ content — it only processes links explicitly saved by the user."
+    },
+    "data_security": {
+      "title": "Data Security",
+      "paragraph": "We take appropriate technical and organizational measures to protect your personal data from unauthorized access, loss, or misuse. All data transmitted between your device and our servers is protected with SSL encryption. Your information is stored securely in PostgreSQL and Redis databases hosted on DigitalOcean servers in Germany, with regular automated backups. Access to data is limited to authorized personnel only. We also use Cloudflare services to enhance security, provide SSL encryption, and protect against malicious traffic or unauthorized access attempts.While we strive to ensure the highest level of security, no system is completely immune to risks. If you notice any suspicious activity, please contact us at:"
+    },
+    "legal_bases": {
+      "title": "Legal Bases",
+      "paragraph": "We process your data in accordance with the following legal frameworks:",
+      "conditions": [
+        "GDPR (General Data Protection Regulation) – for users in the European Union and EEA countries.",
+        "Other applicable data protection and privacy laws – depending on your location.",
+        "When processing age information and access to adult content, our legal bases may include: Compliance with legal obligations related to age restrictions;"
+      ],
+      "paragraph2": "Legitimate interest in ensuring the App is not used by minors to access adult content; User consent when enabling access to adult categories."
+    },
+    "data_storage_and_transfer": {
+      "title": "Data Storage and Transfer",
+      "paragraph": "All personal data collected through the App is stored securely on servers hosted by DigitalOcean in Germany (European Union). We do not transfer your personal data outside the European Economic Area (EEA). All processing and storage are carried out in compliance with the General Data Protection Regulation (GDPR). If in the future data needs to be transferred outside the EEA, we will ensure appropriate safeguards, such as Standard Contractual Clauses (SCCs) approved by the European Commission."
+    },
+    "cookies_and_analytics": {
+      "title": "Cookies and Analytics",
+      "paragraph": "We do not use cookies or analytics tools to track user behavior."
+    },
+    "changes_to_this_policy": {
+      "title": "Changes to This Policy",
+      "paragraph": "We may update this Privacy Policy from time to time. Any changes will be posted in the App or on our website. Continued use of the App after such changes constitutes your acceptance of the updated Policy."
+    },
+    "contacts": {
+      "title": "Contact Us",
+      "paragraph": "If you have questions or concerns about this Privacy Policy, please contact us at:"
+    },
+    "third_party_licenses": {
+      "title": "Third-Party Licenses",
+      "paragraph": "This application uses icons from the Material Symbols icon set provided by Google LLC. These icons are licensed under the Apache License, Version 2.0. © Google LLC. All rights reserved. Source code and license are publicly available from Google’s official repositories."
+    }
+  }
+}
