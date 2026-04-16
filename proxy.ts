@@ -10,7 +10,9 @@ export function proxy(req: NextRequest) {
   if (!hasLang) {
     return NextResponse.redirect(new URL(`/${defaultLng}${pathname}`, req.url));
   }
-
+  const lng = req.nextUrl.pathname.split('/')[1] ?? 'en';
+  const response = NextResponse.next();
+  response.headers.set('x-lng', lng);
   return NextResponse.next();
 }
 

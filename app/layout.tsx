@@ -1,6 +1,7 @@
 import type {Metadata} from 'next';
 import {Geist, Geist_Mono} from 'next/font/google';
 import '@/app/globals.css';
+import {headers} from 'next/headers';
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -19,12 +20,12 @@ export const metadata: Metadata = {
 
 export default async function RootLayout({
   children,
-  params,
 }: Readonly<{
   children: React.ReactNode;
-  params: Promise<{lng: string}>;
 }>) {
-  const {lng} = await params;
+  const headersList = await headers();
+  const lng = headersList.get('x-lng') ?? 'en';
+
   return (
     <html
       lang={lng}
